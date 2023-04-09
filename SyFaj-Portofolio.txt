@@ -1,3 +1,4 @@
 My Portofolio
 - Membuat Web Portofolio 
 - Mempelajari dan memahami data analyst
+- Membuat Aplikasi Elektronik Arsip
